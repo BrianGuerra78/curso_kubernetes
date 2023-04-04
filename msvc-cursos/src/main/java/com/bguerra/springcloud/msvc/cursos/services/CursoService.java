@@ -1,6 +1,6 @@
 package com.bguerra.springcloud.msvc.cursos.services;
 
-import com.bguerra.springcloud.msvc.cursos.entity.Curso;
+import com.bguerra.springcloud.msvc.cursos.models.entity.Curso;
 
 import java.util.List;
 import java.util.Optional;

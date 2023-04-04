@@ -1,29 +1,12 @@
-package org.bguerra.springcloud.msvc.usuarios.models.entity;
+package com.bguerra.springcloud.msvc.cursos.models;
 
-import javax.persistence.*;
-import javax.validation.constraints.Email;
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotEmpty;
-
-@Entity
-@Table(name = "usuarios")
 public class Usuario {
-
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    //@NotEmpty
-    @NotBlank
     private String nombre;
 
-    @NotEmpty
-    @Email
-    @Column(unique = true)
     private String email;
 
-    //@NotEmpty
-    @NotBlank//valida que no este vacio o tenga solo un caracter de espacio
     private String password;
 
     public Long getId() {
