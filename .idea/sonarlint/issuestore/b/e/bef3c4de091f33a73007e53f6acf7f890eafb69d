@@ -1,0 +1,28 @@
+
+z
+java:S1192N"]Define a constant instead of duplicating this literal "o error en la comunicacion: " 3 times.(¯å’ñ8´ó’—õ0
+j
+java:S1192M"HDefine a constant instead of duplicating this literal "mensaje" 3 times.(­µ±‰úÿÿÿÿ8µó’—õ0
+C
+java:S1452"&Remove usage of generic wildcard type.(íÜëá8ƒô’—õ0
+]	java:S125"<This block of commented-out lines of code should be removed.(š“½Ğùÿÿÿÿ8ƒô’—õ0
+b
+java:S4684&"@Replace this persistent entity with a simple POJO or DTO object.(–ìËÖùÿÿÿÿ8‡ô’—õ0
+H
+java:S1452&"&Remove usage of generic wildcard type.(–ìËÖùÿÿÿÿ8‡ô’—õ0
+b
+java:S4684/"@Replace this persistent entity with a simple POJO or DTO object.(¾éßûúÿÿÿÿ8‰ô’—õ0
+H
+java:S1452/"&Remove usage of generic wildcard type.(¾éßûúÿÿÿÿ8‰ô’—õ0
+H
+java:S1452="&Remove usage of generic wildcard type.(”øÈ»şÿÿÿÿ8Œô’—õ0
+B
+java:S1452G"&Remove usage of generic wildcard type.(ŠœÚg8ô’—õ0
+H
+java:S1452W"&Remove usage of generic wildcard type.(—Šûîúÿÿÿÿ8‘ô’—õ0
+C
+java:S1452g"&Remove usage of generic wildcard type.(˜¡ĞŠ8”ô’—õ0
+C
+java:S1452w"&Remove usage of generic wildcard type.(—€™½8—ô’—õ0
+I
+java:S1602~",Remove useless curly braces around statement(Óÿé¬8™ô’—õ0
