@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@FeignClient(name = "msvc-usuarios", url="localhost:8001")
+@FeignClient(name = "msvc-usuarios", url="localhost:8001")//se pone el host de docker en lugar del local (localhost)
 public interface UsuarioClientRest {
 
     @GetMapping("/{id}")

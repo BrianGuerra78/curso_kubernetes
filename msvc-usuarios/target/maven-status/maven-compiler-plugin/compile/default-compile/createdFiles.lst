@@ -1,0 +1,7 @@
+org\bguerra\springcloud\msvc\usuarios\controllers\UsuarioController.class
+org\bguerra\springcloud\msvc\usuarios\services\UsuarioServiceImpl.class
+org\bguerra\springcloud\msvc\usuarios\MsvcUsuariosApplication.class
+org\bguerra\springcloud\msvc\usuarios\services\UsuarioService.class
+org\bguerra\springcloud\msvc\usuarios\models\entity\Usuario.class
+org\bguerra\springcloud\msvc\usuarios\repositories\UsuarioRespository.class
+org\bguerra\springcloud\msvc\usuarios\clients\CursoClienteRest.class

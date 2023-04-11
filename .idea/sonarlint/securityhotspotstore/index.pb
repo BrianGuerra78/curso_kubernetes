@@ -1,22 +1,10 @@
 
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-C
-msvc-cursos/pom.xml,c\9\c992d90804b37b1ae4d2f0e63baab9da8288400a
-E
-msvc-usuarios/pom.xml,3\5\35db51b5be2bab04530d7f81843e70f086e9aaf0
 ñ
 fmsvc-usuarios/src/main/java/org/bguerra/springcloud/msvc/usuarios/repositories/UsuarioRespository.java,3\a\3a25a8cb0396df43813f861e12512edbd848fc8d
 é
 ^msvc-usuarios/src/main/java/org/bguerra/springcloud/msvc/usuarios/services/UsuarioService.java,9\c\9c2b126abd0aed2b9fcbe0ba94cb26b32e495447
-î
-dmsvc-usuarios/src/main/java/org/bguerra/springcloud/msvc/usuarios/controllers/UsuarioController.java,4\1\412b87fbf284578c3196eba3968e693aa9bde7bd
-å
-\msvc-cursos/src/main/java/com/bguerra/springcloud/msvc/cursos/clients/UsuarioClientRest.java,1\2\12ba121c1f09b02617ae699095424e30e4af1138
 è
 _msvc-cursos/src/main/java/com/bguerra/springcloud/msvc/cursos/repositories/CursoRepository.java,6\b\6bb2889a08a9244194a131a4389fd498d8a843bc
-à
-Xmsvc-cursos/src/main/java/com/bguerra/springcloud/msvc/cursos/MsvcCursosApplication.java,1\3\1380c9ce6084688dde762ba8bbe9852581feada6
 à
 Xmsvc-cursos/src/main/java/com/bguerra/springcloud/msvc/cursos/services/CursoService.java,9\9\990db7a428699da47f113dc51a1cb684a6e6db4d
 é
@@ -27,5 +15,5 @@ Xmsvc-cursos/src/main/java/com/bguerra/springcloud/msvc/cursos/services/CursoSer
 bmsvc-usuarios/src/main/java/org/bguerra/springcloud/msvc/usuarios/services/UsuarioServiceImpl.java,b\f\bfa94032488b1ce499b1d1df91ad5c35d8657a1b
 å
 \msvc-cursos/src/main/java/com/bguerra/springcloud/msvc/cursos/services/CursoServiceImpl.java,7\c\7cfdb718edf0f72cbf50a20c2a8fecb0ee2c5181
-è
-_msvc-usuarios/src/main/java/org/bguerra/springcloud/msvc/usuarios/clients/CursoClienteRest.java,7\9\79b791ec2bc36e9ab6de9f417e3ddcb1c0ee2121
+B
+msvc-usuarios/mvnw,a\9\a91b5fcb71613dbb2bb9bc361d93646102348787
